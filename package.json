@@ -32,6 +32,7 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
+    "animes-season-addon": "file:",
     "name-to-imdb": "^3.0.4"
   }
 }
