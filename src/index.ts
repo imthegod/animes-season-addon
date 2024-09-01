@@ -1,4 +1,4 @@
-import { Season, monthToSeason } from "./query";
+import { monthToSeason } from "./query";
 import { Stremio } from "./stremio";
 import { TitleType } from 'name-to-imdb';
 import { Patches } from "./patch";
